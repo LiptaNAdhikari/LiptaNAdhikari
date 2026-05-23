@@ -1,4 +1,23 @@
 ## Hi there 👋
+## I'm Liptan 👑
+
+🎓 CSE Student  
+🤖 Learning Machine Learning & AI  
+💻 Python Developer  
+📊 Data Science Enthusiast
+
+## 🛠 Skills
+- Python
+- Machine Learning
+- Pandas
+- NumPy
+- OpenCV
+- TensorFlow
+
+## 🚀 Projects
+- House Price Prediction
+- Face Detection System
+- Fake News Detection
 
 <!--
 **LiptaNAdhikari/LiptaNAdhikari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
